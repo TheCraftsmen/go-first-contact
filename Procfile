@@ -1,1 +1,1 @@
-web: staticServer
+web: staticServer -port=$PORT
