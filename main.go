@@ -14,7 +14,7 @@ func main() {
   http.HandleFunc("/", serveTemplate)
 
   log.Println("Listening...")
-  http.ListenAndServe(":3000", nil)
+  http.ListenAndServe(":"+port, nil)
 }
 
 func serveTemplate(w http.ResponseWriter, r *http.Request) {
