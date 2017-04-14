@@ -1,1 +1,1 @@
-web: staticServer -port=$PORT
+web: rocks
