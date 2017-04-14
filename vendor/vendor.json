@@ -1,7 +1,7 @@
 {
+	"ImportPath": "rocks",
 	"comment": "",
 	"ignore": "test",
-	"ImportPath": "rocks",
 	"package": [],
 	"rootPath": "rocks"
 }

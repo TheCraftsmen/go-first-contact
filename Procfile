@@ -1,1 +1,1 @@
-web: rocks
+web: main
