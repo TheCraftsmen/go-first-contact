@@ -2,6 +2,6 @@
 	"comment": "",
 	"ignore": "test",
 	"ImportPath": "rocks",
-	"package": ["./…"],
+	"package": [],
 	"rootPath": "rocks"
 }
